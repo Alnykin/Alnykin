@@ -6,6 +6,6 @@ I’m a cybersecurity graduate and IT professional focused on building practical
 
 Enterprise Security Homelab Project 
   * Provisioning Workstations and Servers
-  * Configuring the Enviroment and Detection Controls
+  * Configuring the Environment and Detection Controls
 
 
