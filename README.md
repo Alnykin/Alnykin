@@ -7,4 +7,4 @@ I’m a cybersecurity graduate and IT professional focused on building practical
   A virtualized enterprise security homelab that simulates a corporate network for hands-on practice with Active Directory, endpoint administration, centralized monitoring, and defensive security operations.
     
 ### [C2 Adversary Emulation and YARA Detection Lab](https://github.com/Alnykin/SOC-EDR-Lab/tree/main)
-A SOC/EDR lab that emulates attacker activity through Sliver C2 to build and validate detections, threat hunting workflows, and automated response using LimaCharlie EDR, Sigma, and YARA.
+A lab that emulates attacker activity through Sliver C2 to build and validate detections, threat hunting workflows, and automated response using LimaCharlie EDR, Sigma, and YARA.
