@@ -3,8 +3,8 @@ I’m a cybersecurity graduate and IT professional focused on building practical
 
 ## 🗂️ Featured Projects
 
-[Enterprise Security Homelab Project](https://github.com/Alnykin/Enterprise-Security-Homelab-Project/tree/main)
-  * Configuring the Environment and Detection Controls
+### [Enterprise Security Homelab Project](https://github.com/Alnykin/Enterprise-Security-Homelab-Project/tree/main)
+  A virtualized enterprise security homelab that simulates a corporate network for hands-on practice with Active Directory, endpoint administration, centralized monitoring, and defensive security operations.
     
-[C2 Adversary Emulation and YARA Detection Lab](https://github.com/Alnykin/SOC-EDR-Lab/tree/main)
-
+### [C2 Adversary Emulation and YARA Detection Lab](https://github.com/Alnykin/SOC-EDR-Lab/tree/main)
+A SOC/EDR lab that emulates attacker activity through Sliver C2 to build and validate detections, threat hunting workflows, and automated response using LimaCharlie EDR, Sigma, and YARA.
